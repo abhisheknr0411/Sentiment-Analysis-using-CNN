@@ -2,7 +2,7 @@
 
 This project is a guided one.
 
-The functionalities of most of the cells present in the programs have been thoroughly explained using docstrings and 
+The functionalities of most of the cells present in the program have been thoroughly explained using docstrings and 
 comments.
 
 The data set used for this project is licensed under Stanford Learning and a link has been provided for the same.
@@ -12,6 +12,6 @@ program, then your code will run just fine.
 The train dataset couldn't be loaded as it exceeded the 25MB limit of GitHub, but the data set is easily available without bounds on the website:
 http://help.sentiment140.com/for-students
 
-I hope you find this project useful, and if there are any doubts, then please approach freely at abhisheknair0411@gmail.com
+I hope you find this project useful, and if there are any doubts, then you can approach freely at abhisheknair0411@gmail.com
 
 Thank you.
